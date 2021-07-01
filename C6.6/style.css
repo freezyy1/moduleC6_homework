@@ -1,0 +1,87 @@
+.content_header {
+    display: flex;
+}
+
+.input_txt {
+    padding: 10px 20px 10px 0 ;
+    color: gray;
+}
+
+.input_echo_btn {
+    background-color: white;
+    border-color: #bad7ec;
+    border-radius: 5px ;
+    border-width: 5px;
+    padding: 10px 70px 10px 0;
+    margin: 0 20px 0 0;
+}
+
+.submit_echo {
+    background-color: #bad7ec;
+    border-color: #bad7ec;
+    padding: 5px 20px 5px 0;
+    margin: 0 20px 0 0;
+}
+
+.submit_txt {
+    padding: 0 0 0 20px;
+}
+
+.output {
+    background-color: white;
+    border-color: #bad7ec;
+    border-radius: 5px ;
+    border-width: 5px;
+    padding: 10px 70px 10px 0;
+    margin: 0 20px 0 0;
+}
+
+.geolocation_echo {
+    background-color: #bad7ec;
+    border-color: #bad7ec;
+    padding: 5px 20px 5px 0;
+    margin: 0 20px 0 0;
+}
+
+.geolocation_txt {
+    padding: 0 0 0 20px;
+}
+
+.content_main {
+    display: block;
+    border: 3px solid #bad7ec;
+    margin-top: 20px;
+    width: 575px;
+    min-height: 500px;
+}
+
+.output_left {
+    border: 2px solid #bad7ec;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+    margin-left: 20px;
+    margin-right: 400px;
+}
+
+.output_right {
+    margin: 0 20px 0 400px;
+    border: 2px solid #bad7ec;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+}
+
+.output_right_geo {
+    color: #97b5d0;
+    margin: 0 20px 0 446px;
+    border: 2px solid #bad7ec;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+}
+
+.err_websocket {
+    color: red;
+    margin: 0 20px 0 446px;
+    border: 2px solid #bad7ec;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+}
